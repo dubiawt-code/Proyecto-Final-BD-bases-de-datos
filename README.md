@@ -2,8 +2,7 @@
 
 ## 1. Integrantes del Equipo
 - Duban Lobo Zabala (Dubiawt)
-- Integrante 2 (Documento / Correo)
-- Integrante 3 (Documento / Correo)
+- Verónica Pulgarin
 
 ## 2. Descripción del Negocio y Justificación
 - **Contexto general del problema a resolver:** La falta de un control organizado en el alquiler de canchas sintéticas provoca cruces de horarios, desorden en los pagos de los clientes y pérdida de registros de las reservas.
