@@ -24,3 +24,6 @@
 ## 5. Instrucciones de Ejecución
 - Comando de instalación de librerías:** `pip install peewee psycopg2-binary pymysql`
 - Comando para ejecutar la aplicación:** `python app.py`
+
+# ENLACE AUDIO PRECENTACION PROYECTO FINAL
+https://drive.google.com/file/d/1xKsNfRjw3oW6vq29pCkvfhmFx6oob9l_/view?usp=sharing
